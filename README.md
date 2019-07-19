@@ -3,7 +3,7 @@
 The application is developed with IDE Intellij IDEA in Java programming language (Java 8 SE). It has a graphical user interface using JavaFX platform. The application has been run normally in Windows environment.\
 It is a web spider programme that is specialized to crawl Wikipedia category site. For the pages under categories, they are downloaded and saved as html files. It supports two searching methodology, breadth-first search (BFS) and depth-first search (DFS).
 
-User Manual:
+## User Manual:
 
 Basic control:
 1. Enter a Wikipedia category site's absolute URL. (e.g. https://en.wikipedia.org/wiki/Category:Technology, https://en.wikipedia.org/wiki/Category:Lists_of_television_channels)
